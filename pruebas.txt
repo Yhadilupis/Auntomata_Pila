@@ -1,0 +1,19 @@
+Validaciones
+i=2
+a=true
+i=false
+i=*z*
+
+¡si{10==5}![
+contenido
+]
+
+F(variable:10,variable>10,au++)[
+contenido
+]
+
+fun y()[ 
+contenido 
+return
+]
+
